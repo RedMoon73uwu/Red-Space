@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Tomorrow:wght@400;700&display=swap');
+
+html { /* El fondo y tema en general*/
+ background-color: #180801;
+}
+
+.Enfasis { /*Para palabras que quiera resaltar, el rojo es un color precioso uwu*/
+    color: #C73000;
+    font-family: "Tomorrow", sans-serif;
+}
+
+.EnfasisMenor{/*Para palabras resaltadas pero menos importantes que enfasis*/
+  color:#ff7373;
+  font-family: "Tomorrow" sans-serif;
+}
+
+ /* Para invocar las fuentes */
+
+ /*
+.tomorrow-regular {
+  font-family: "Tomorrow", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tomorrow-bold {
+  font-family: "Tomorrow", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+  */

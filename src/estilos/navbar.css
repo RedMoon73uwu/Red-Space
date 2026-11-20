@@ -1,0 +1,54 @@
+/*Nav Bar: */
+
+.redmoonWord{
+  color:#730000;
+  font-family: "Moon Dance", cursive;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 40px;
+  position: relative;
+  
+
+  padding: 2px 30px;
+}
+
+img{
+  padding: 5px;
+}
+
+.NavBar{
+  background-color: #180801;
+
+  padding: 1px ;
+  border-bottom: 7px solid #730000;
+
+  display: flex;
+  
+  color: #f7f3f0;
+  font-family: "Tomorrow", sans-serif;
+  font-weight: 400;
+}
+
+.menu{
+padding: 0px;
+display:flex;
+}
+
+button{
+  background-color: #180801;
+  color: #f7f3f0;
+  font-family: "Tomorrow", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  border: 0;
+  padding: 20px;
+}
+
+
+button:hover{
+  width: 100%;
+  left: 0;
+  color: #C73000;
+  font-weight: 400;
+  transition: 0.1s;
+}
