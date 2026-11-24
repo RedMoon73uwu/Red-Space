@@ -3,6 +3,8 @@
 
 html { /* El fondo y tema en general*/
  background-color: #180801;
+ color:#f7f3f0;
+ font-family: "Tomorrow", sans-serif;
 }
 
 .Enfasis { /*Para palabras que quiera resaltar, el rojo es un color precioso uwu*/
