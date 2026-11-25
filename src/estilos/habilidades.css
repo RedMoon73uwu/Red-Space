@@ -1,0 +1,14 @@
+.skill{
+    font-size: 20px;
+    padding: 10px 10px;
+    display: block;
+}
+
+.Skills{
+    
+    padding: 0px 100px;
+}
+.listado{
+    display: flex;
+    padding: 73px;
+}
