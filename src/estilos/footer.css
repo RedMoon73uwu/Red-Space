@@ -28,6 +28,7 @@
 .linkRed{
     color: #f7f3f1;
     padding: 5px;
+    text-decoration: none;
 }
 .linkRed:hover{
     color:#C73000;
