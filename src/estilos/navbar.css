@@ -34,6 +34,7 @@ img{
 width: 100%;
 display:flex;
 justify-content: end;
+padding: 0px 73px 0px 0px;
 }
 
 button{
@@ -41,9 +42,9 @@ button{
   color: #f7f3f0;
   font-family: "Tomorrow", sans-serif;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 26px;
   border: 0;
-  padding: 20px;
+  padding: 20px 40px;
 }
 
 
