@@ -1,0 +1,17 @@
+.Footer{
+    border-top: 7px solid #730000 ;
+    display: flex;
+}
+
+.tituloFooter{
+    display: flex;
+    flex-direction: column;
+}
+
+.devfullstack{
+    position: relative;
+    margin:2px 26px;
+    padding: 10px 4px;
+    border-top: 2px solid #C73000;
+    color:#ff7373;
+}
