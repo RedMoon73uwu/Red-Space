@@ -1,11 +1,14 @@
 .Footer{
     border-top: 7px solid #730000 ;
-    display: flex;
+    display:inline-flex;
+    width: 100%;
 }
 
 .tituloFooter{
+    width: 32%;
     display: flex;
     flex-direction: column;
+    padding: 15px 0px;
 }
 
 .devfullstack{
@@ -14,4 +17,23 @@
     padding: 10px 4px;
     border-top: 2px solid #C73000;
     color:#ff7373;
+}
+
+.ListaMisRedes{
+    padding: 20px;
+    display: flex;
+   flex-direction: column;
+}
+
+.linkRed{
+    color: #f7f3f1;
+    padding: 5px;
+}
+
+.columnasFooter{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
 }
